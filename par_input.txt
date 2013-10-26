@@ -1,0 +1,940 @@
+DATA FROM: http://www.przepisy.gofin.pl/przepisy,3,16,194,1276,55703,20120101,klasyfikacja-paragrafow-wydatkow-i-srodkow.html
+
+Paragrafy
+
+200 Dotacje celowe w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 i 6 ustawy, lub płatności w ramach budżetu środków europejskich Paragraf ten stosuje się również do rozliczeń dotacji rozwojowej otrzymanej przed dniem 31 grudnia 2009 r., w tym zwrotów środków tej dotacji, oraz do zwrotów środków, o których mowa powyżej. Paragrafu tego nie stosuje się w przypadku środków uzyskanych przez państwowe jednostki budżetowe na wydatki ponoszone bezpośrednio przez te jednostki.
+
+201 Dotacje celowe przekazane z budżetu państwa na realizację zadań bieżących z zakresu administracji rządowej oraz innych zadań zleconych gminom (związkom gmin) ustawami
+
+202 Dotacje celowe przekazane z budżetu państwa na zadania bieżące realizowane przez gminę na podstawie porozumień z organami administracji rządowej
+
+203 Dotacje celowe przekazane z budżetu państwa na realizację własnych zadań bieżących gmin (związków gmin)
+
+211 Dotacje celowe przekazane z budżetu państwa na zadania bieżące z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat
+
+212 Dotacje celowe przekazane z budżetu państwa na zadania bieżące realizowane przez powiat na podstawie porozumień z organami administracji rządowej
+
+213 Dotacje celowe przekazane z budżetu państwa na realizację bieżących zadań własnych powiatu
+
+221 Dotacje celowe przekazane z budżetu państwa na zadania bieżące z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa
+
+222 Dotacje celowe przekazane z budżetu państwa na zadania bieżące realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej
+
+223 Dotacje celowe przekazane z budżetu państwa na realizację bieżących zadań własnych samorządu województwa
+
+224 Dotacje celowe przekazane z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań bieżących objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez samorządowe instytucje kultury
+
+Paragraf ten obejmuje dotacje udzielane na podstawie § 1 w związku z § 4 rozporządzenia Ministra Kultury z dnia 1 września 2005 r. w sprawie zakresu zadań objętych mecenatem państwa, szczegółowego trybu składania wniosków o udzielenie dotacji oraz trybu przekazywania i rozliczania udzielonych dotacji. Powyższe objaśnienia mają także zastosowanie do paragrafów: 225, 654 i 655.
+
+225 Dotacje celowe przekazane z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań bieżących objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez jednostki niezaliczane do sektora finansów publicznych
+
+226 Dotacja podmiotowa z budżetu dla uczelni niepublicznej lub prowadzącej studia doktoranckie jednostki naukowej na pozostałe zadania
+
+W paragrafie tym ujmuje się dotacje z budżetu dla uczelni niepublicznych lub prowadzących studia doktoranckie jednostek naukowych, niezaliczanych do sektora finansów publicznych, na zadania określone w ustawie z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym, niezaliczane do paragrafu 250.
+
+227 Dotacja podmiotowa z budżetu dla uczelni publicznej lub prowadzącej studia doktoranckie jednostki naukowej na pozostałe zadania
+
+W paragrafie tym ujmuje się dotacje z budżetu dla uczelni publicznych lub prowadzących studia doktoranckie jednostek naukowych, zaliczanych do sektora finansów publicznych, na zadania określone w ustawie z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym, niezaliczane do paragrafu 252.
+
+228 Dotacja z budżetu dla instytucji gospodarki budżetowej na pierwsze wyposażenie w środki obrotowe
+
+229 Wpłata do budżetu nadwyżki środków finansowych przez agencję wykonawczą
+
+231 Dotacje celowe przekazane gminie na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+232 Dotacje celowe przekazane dla powiatu na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+233 Dotacje celowe przekazane do samorządu województwa na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+236 Dotacje celowe z budżetu jednostki samorządu terytorialnego, udzielone w trybie art. 221 ustawy, na finansowanie lub dofinansowanie zadań zleconych do realizacji organizacjom prowadzącym działalność pożytku publicznego
+
+Dotacji celowych ujmowanych w tym paragrafie nie wykazuje się w paragrafach 281 do 283.
+
+237 Wpłata do budżetu nadwyżki środków obrotowych przez samorządowy zakład budżetowy
+
+239 Wpłata do budżetu zysku przez instytucję gospodarki budżetowej
+
+240 Wpłata do budżetu pozostałości środków finansowych gromadzonych na wydzielonym rachunku jednostki budżetowej
+
+Paragraf ten obejmuje wpłaty do budżetu jednostki samorządu terytorialnego pozostałych na dzień 31 grudnia środków finansowych z rachunku samorządowej jednostki budżetowej, prowadzącej działalność określoną w ustawie z dnia 7 września 1991 r. o systemie oświaty, zgodnie z art. 223 ust. 4 ustawy.
+
+241 Dotacja z budżetu jednostki samorządu terytorialnego dla samorządowego zakładu budżetowego na pierwsze wyposażenie w środki obrotowe
+
+243 Dotacja z budżetu dla państwowego funduszu celowego
+
+244 Dotacje przekazane z państwowych funduszy celowych na realizację zadań bieżących dla jednostek sektora finansów publicznych
+
+245 Dotacje przekazane z państwowych funduszy celowych na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych
+
+246 Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych
+
+W paragrafie tym ujmuje się również dotacje, o których mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+247 Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych
+
+248 Dotacja podmiotowa z budżetu dla samorządowej instytucji kultury
+
+249 Dotacja podmiotowa z budżetu dla samodzielnego publicznego zakładu opieki zdrowotnej utworzonego przez organ administracji rządowej lub państwową uczelnię
+
+Paragraf ten obejmuje dotacje, o których mowa w art. 55 ust. 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. nr 14, poz. 89, z późn. zm.), z wyjątkiem wydatków klasyfikowanych do paragrafu "622 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora finansów publicznych".
+
+250 Dotacja podmiotowa z budżetu dla uczelni niepublicznej na zadania, o których mowa w art. 94 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym
+
+W paragrafie tym ujmuje się w szczególności dotację z budżetu dla szkół wyższych prowadzonych przez kościoły i związki wyznaniowe, udzielaną na podstawie odrębnych ustaw.
+
+251 Dotacja podmiotowa z budżetu dla samorządowego zakładu budżetowego
+
+252 Dotacja podmiotowa z budżetu dla uczelni publicznej na zadania, o których mowa w art. 94 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym
+
+253 Dotacja podmiotowa z budżetu dla jednostek naukowych
+
+W paragrafie tym ujmuje się wydatki jednostek naukowych, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, z wyłączeniem jednostek niezaliczanych do sektora finansów publicznych.
+
+254 Dotacja podmiotowa z budżetu dla niepublicznej jednostki systemu oświaty
+
+255 Dotacja podmiotowa z budżetu dla państwowej instytucji kultury
+
+256 Dotacja podmiotowa z budżetu dla samodzielnego publicznego zakładu opieki zdrowotnej utworzonego przez jednostkę samorządu terytorialnego
+
+Paragraf ten obejmuje dotacje, o których mowa w art. 55 ust. 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, z wyjątkiem pkt 3, który dotyczy inwestycji i zakupów inwestycyjnych klasyfikowanych do paragrafu 622 - Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora finansów publicznych.
+
+257 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych
+
+258 Dotacja podmiotowa z budżetu dla jednostek niezaliczanych do sektora finansów publicznych
+
+259 Dotacja podmiotowa z budżetu dla publicznej jednostki systemu oświaty prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub przez osobę fizyczną
+
+261 Środki przekazane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej na finansowanie funkcjonowania systemu handlu uprawnieniami do emisji
+
+Paragraf ten obejmuje wydatki, o których mowa w art. 401c ust. 8 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz. U. z 2008 r. nr 25, poz. 150, z późn. zm.), przeznaczone wyłącznie na finansowanie funkcjonowania systemu handlu uprawnieniami do emisji, w tym na prowadzenie Krajowego Rejestru Uprawnień do Emisji i realizację zadań Krajowego Administratora Systemu Handlu Uprawnieniami do Emisji oraz zadań dotyczących monitorowania wielkości emisji substancji objętych tym systemem.
+
+262 Dotacja przedmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych
+
+263 Dotacja przedmiotowa z budżetu dla jednostek niezaliczanych do sektora finansów publicznych
+
+264 Dotacja celowa przekazana z budżetu jednostki samorządu terytorialnego dla samorządowego zakładu budżetowego na zadania bieżące
+
+W paragrafie tym ujmuje się dotację celową przekazaną z budżetu jednostki samorządu terytorialnego na zadania bieżące finansowane z udziałem środków pochodzących z budżetu Unii Europejskiej oraz środków pochodzących ze źródeł zagranicznych, zgodnie z art. 15 ust. 3 pkt 2 ustawy.
+
+265 Dotacja przedmiotowa z budżetu dla samorządowego zakładu budżetowego
+
+268 Rekompensaty utraconych dochodów w podatkach i opłatach lokalnych
+
+269 Środki Funduszu Pracy przekazane powiatom z przeznaczeniem na finansowanie kosztów wynagrodzenia i składek na ubezpieczenia społeczne pracowników powiatowego urzędu pracy Paragraf ten obejmuje środki przekazane powiatom z Funduszu Pracy, na podstawie art. 9 ust. 2a-2c ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+270 Subwencje dla partii politycznych
+
+271 Dotacja celowa na pomoc finansową udzielaną między jednostkami samorządu terytorialnego na dofinansowanie własnych zadań bieżących
+
+272 Dotacje celowe z budżetu na finansowanie lub dofinansowanie prac remontowych i konserwatorskich obiektów zabytkowych przekazane jednostkom niezaliczanym do sektora finansów publicznych
+
+273 Dotacje celowe z budżetu na finansowanie lub dofinansowanie prac remontowych i konserwatorskich obiektów zabytkowych, przekazane jednostkom zaliczanym do sektora finansów publicznych
+
+274 Pomoc zagraniczna
+
+Paragraf ten obejmuje m.in. wydatki na pomoc techniczną dla państw w drodze transformacji i pomoc humanitarną (z wyjątkiem wydatków finansowanych w szczególności z paragrafów: 281 do 283, 422 do 424 i 430).
+
+275 Środki na uzupełnienie dochodów gmin
+
+W paragrafie tym ujmuje się środki, o których mowa w art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+276 Środki na uzupełnienie dochodów powiatów
+
+W paragrafie tym ujmuje się środki, o których mowa w art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+277 Środki na uzupełnienie dochodów województw W paragrafie tym ujmuje się środki, o których mowa w art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+279 Środki na utrzymanie rzecznych przepraw promowych oraz na remonty, utrzymanie, ochronę i zarządzanie drogami krajowymi i wojewódzkimi w granicach miast na prawach powiatu
+
+W paragrafie tym ujmuje się środki, o których mowa w art. 26 ust. 1 pkt 2 i 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+280 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych
+
+281 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji fundacjom
+
+282 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji stowarzyszeniom
+
+283 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji pozostałym jednostkom niezaliczanym do sektora finansów publicznych
+
+284 Dotacja celowa z budżetu państwa na finansowanie lub dofinansowanie ustawowo określonych zadań bieżących realizowanych przez pozostałe jednostki sektora finansów publicznych Paragraf ten obejmuje dotacje celowe niezaliczone do paragrafów: 201 do 203, 211 do 213, 221 do 223.
+
+285 Wpłaty gmin na rzecz izb rolniczych w wysokości 2% uzyskanych wpływów z podatku rolnego
+
+286 Dotacja z budżetu państwa stanowiąca zwrot kosztów obsługi świadczeń zleconych do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego oraz dotacja dla Funduszu Kościelnego
+
+287 Dotacja z budżetu państwa dla gmin uzdrowiskowych
+
+Paragraf ten obejmuje dotację z budżetu państwa w wysokości równej wpływom z tytułu opłaty uzdrowiskowej pobranej w uzdrowisku w roku poprzedzającym rok bazowy zgodnie z art. 49 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych.
+
+288 Dotacja celowa przekazana jednostce samorządu terytorialnego przez inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą na zadania bieżące realizowane na podstawie porozumień (umów)
+
+289 Środki Funduszu Promocji Kultury przekazane Polskiemu Instytutowi Sztuki Filmowej na realizację zadań bieżących
+
+290 Wpłaty gmin i powiatów na rzecz innych jednostek samorządu terytorialnego oraz związków gmin lub związków powiatów na dofinansowanie zadań bieżących
+
+291 Zwrot dotacji oraz płatności, w tym wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości
+
+Paragraf ten obejmuje zwroty dotacji oraz zwroty płatności, o których mowa w art. 186 pkt 2 ustawy. W paragrafie ujmuje się zwroty niezaliczone do paragrafu 666.
+
+292 Subwencje ogólne z budżetu państwa
+
+293 Wpłaty jednostek samorządu terytorialnego do budżetu państwa
+
+294 Zwrot do budżetu państwa nienależnie pobranej subwencji ogólnej za lata poprzednie
+
+296 Przelewy redystrybucyjne
+
+Paragraf ten obejmuje przelewy środków między poszczególnymi dysponentami tego samego rodzaju środków. W paragrafie tym ujmuje się także środki przekazywane przez gminy i powiaty, o których mowa w art. 404 ust. 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+297 Różne przelewy
+
+Paragraf ten występuje tylko w samorządowych zakładach budżetowych i państwowych funduszach celowych i obejmuje przelewy między różnymi rodzajami środków.
+
+298 Pozostałe rozliczenia z bankami
+
+Paragraf ten obejmuje rozliczenia z bankami niezaliczone do paragrafu 801.
+
+300 Wpłaty jednostek na państwowy fundusz celowy
+
+Paragraf ten obejmuje w szczególności wpłaty, o których mowa w art. 13 ust. 3, 4a i 4e ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz wpłaty, o których mowa w art. 8a ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej.
+
+301 Wpłaty dokonywane przez fundusze celowe do budżetu państwa
+
+Paragraf ten ma zastosowanie w szczególności do ujmowania w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych kwot wydatków stanowiących wpłatę do budżetu państwa z tytułu ponoszenia przez budżet państwa wydatków związanych z przejęciem przez ministra właściwego do spraw pracy zadań i pracowników Krajowego Biura Funduszu.
+
+302 Wydatki osobowe niezaliczone do wynagrodzeń Paragraf ten obejmuje wypłaty pieniężne oraz wartość świadczeń w naturze, niezaliczone do wynagrodzeń, w szczególności:
+
+    - świadczenia rzeczowe, wynikające z przepisów dotyczących bezpieczeństwa i higieny pracy (w tym profilaktyczne posiłki i napoje), oraz ekwiwalenty za te świadczenia, a także ekwiwalenty za pranie odzieży roboczej wykonywane przez pracowników, ekwiwalenty za używanie własnej odzieży i obuwia roboczego,
+
+    - ekwiwalenty pieniężne za użyte przy wykonywaniu pracy narzędzia, materiały lub sprzęt, stanowiące własność wykonawcy,
+
+    - zasiłki na zagospodarowanie i zasiłki osiedleniowe, z wyłączeniem zasiłków na zagospodarowanie nauczycieli,
+
+    - dodatki mieszkaniowe i wiejskie dla nauczycieli,
+
+    - środki wydawane do spożycia pracownikom wyłącznie w czasie wykonywania pracy, bez prawa do ekwiwalentu z tego tytułu (m.in. w zakładach gastronomicznych, placówkach wyżywienia przyzakładowego, placówkach opiekuńczo-wychowawczych, zakładach dla nieletnich, służbie zdrowia, w domach pomocy społecznej, domach wczasowych, marynarzom i rybakom oraz dodatki kaloryczne wypłacane na podstawie odrębnych przepisów),
+
+    - wartość umundurowania, jeśli obowiązek jego noszenia wynika z obowiązujących ustaw,
+
+    - wypłaty dokonywane na rzecz twórców wynalazków, projektów racjonalizatorskich i wzorów użytkowych oraz nagrody związane z tymi projektami, a także nagrody za osiągnięcie wymiernych efektów ekonomicznych wdrażania nowych rozwiązań technicznych i organizacyjnych, będących wynikami prac badawczych,
+
+    - określone ustawowo: odprawy pieniężne, odszkodowania, rekompensaty lub inne świadczenia z powodu ogłoszenia upadłości lub likwidacji pracodawcy albo restrukturyzacji zatrudnienia z przyczyn niedotyczących pracowników,
+
+    - odszkodowania przysługujące od pracodawcy za przedmioty utracone lub uszkodzone wskutek wypadku przy pracy,
+
+    - zasądzone i dobrowolnie wypłacone odszkodowania w sprawach o roszczenia ze stosunku pracy,
+
+    - wypłaty przeznaczone na pomoc zdrowotną dla nauczycieli,
+
+    - świadczenia przysługujące mianowanym urzędnikom państwowym w razie rozwiązania stosunku pracy, w przypadku reorganizacji urzędu lub jego likwidacji, oraz świadczenia przysługujące urzędnikom służby cywilnej w razie rozwiązania stosunku pracy, w przypadku likwidacji urzędu,
+
+    - odprawy pośmiertne,
+
+    - świadczenia przysługujące członkom służby zagranicznej oraz pracownikom zatrudnionym zgodnie z polskim prawem, wykonującym obowiązki służbowe w placówkach zagranicznych, w tym dodatki zagraniczne i dodatki na pokrycie zwiększonych kosztów utrzymania rodziny przysługujące ambasadorowi i konsulowi kierującemu urzędem konsularnym.
+
+303 Różne wydatki na rzecz osób fizycznych
+
+Paragraf ten obejmuje wydatki osobowe oraz wydatki z tytułu świadczeń rzeczowych niezaliczone do paragrafów: 302, 304, 305, 307, 311, 321, 323 do 326, 401 do 410, 417 i 418, między innymi:
+
+    - diety poselskie, senatorskie, członków Rady Statystyki i inne,
+
+    - diety dla radnych jednostek samorządu terytorialnego i członków komisji organów stanowiących jednostek samorządu terytorialnego,
+
+    - diety dla członków komisji działających przy organach administracji publicznej,
+
+    - zwrot kosztów podróży, dojazdów komunikacją miejscową i noclegów członkom komisji działających przy organach administracji publicznej oraz zwrot kosztów podróży radnym jednostek samorządu terytorialnego,
+
+    - pozostałe wydatki związane z postępowaniem sądowym i prokuratorskim, a w szczególności: ryczałty wypłacane kuratorom społecznym, ryczałty wypłacane kuratorom zawodowym z tytułu przeprowadzonych wywiadów, rekompensaty dla ławników za czas wykonywania czynności w sądzie, świadczenia związane z postępowaniem mediacyjnym, zwrot utraconych wynagrodzeń świadków w związku z wykonywaniem czynności w sądzie, zwrot kosztów diet, przejazdów i noclegów ławnikom, biegłym i świadkom.
+
+304 Nagrody o charakterze szczególnym niezaliczone do wynagrodzeń
+
+Paragraf ten obejmuje w szczególności nagrody resortowe, w tym nagrody ministra właściwego do spraw oświaty i wychowania dla nauczycieli za osiągnięcia dydaktyczno-wychowawcze oraz nagrody ministrów dla nauczycieli akademickich za osiągnięcia naukowe, dydaktyczne lub organizacyjne albo za całokształt dorobku, nagrody konkursowe, nagrody za szczególne osiągnięcia w zakresie prac badawczych oraz zastosowanie ich wyników w praktyce, nagrody Prezesa Rady Ministrów za wyróżniające się rozprawy doktorskie i habilitacyjne oraz za działalność naukową, nagrody kuratora oświaty dla nauczycieli za osiągnięcia dydaktyczno-wychowawcze, nagrody za ratownictwo morskie, nagrody dla krwiodawców, nagrody za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony kultury, nagrody za wybitne osiągnięcia sportowe oraz nagrody dla żołnierzy wynikające z ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. nr 190, poz. 1474).
+
+305 Zasądzone renty
+
+307 Wydatki osobowe niezaliczone do uposażeń wypłacane żołnierzom i funkcjonariuszom Paragraf ten obejmuje:
+
+    - uposażenia, nagrody i zapomogi oraz inne należności wypłacane żołnierzom niezawodowym oraz funkcjonariuszom w służbie kandydackiej,
+
+    - ustawowe należności dla żołnierzy i funkcjonariuszy, między innymi takie jak: równoważniki pieniężne za brak lokalu mieszkalnego, równoważniki remontowe, pomoc mieszkaniowa, zasiłki na zagospodarowanie i zasiłki osiedleniowe oraz ryczałt z tytułu przeniesienia, należności za rozłąkę i służby dyżurne, gratyfikacje urlopowe, dopłaty do wypoczynku, należności za przejazd na urlop, inne świadczenia dla funkcjonariuszy celnych w związku z przeniesieniem do pełnienia służby w innej miejscowości, wartość wyżywienia przysługującego funkcjonariuszom celnym,
+
+    - należności pieniężne wypłacane żołnierzom i funkcjonariuszom wyznaczonym do pełnienia służby poza granicami państwa,
+
+    - wypłaty dokonywane na rzecz twórców wynalazków, projektów racjonalizatorskich i wzorów użytkowych oraz nagrody związane z tymi projektami, a także nagrody za osiągnięcie wymiernych efektów ekonomicznych wdrażania nowych rozwiązań technicznych i organizacyjnych, będących wynikami prac badawczych.
+
+311 Świadczenia społeczne
+
+Paragraf ten obejmuje świadczenia społeczne na rzecz osób fizycznych przewidziane w obowiązujących przepisach i układach zbiorowych pracy, w szczególności:
+
+    - emerytury i renty,
+
+    - świadczenia z tytułu ubezpieczeń społecznych pokrywane ze środków państwowych funduszów celowych,
+
+    - świadczenia wypłacane ze środków Funduszu Pracy,
+
+    - zapomogi dla podopiecznych,
+
+    - zasiłki dla rodzin osób odbywających służbę wojskową,
+
+    - pomoc pieniężną dla rodzin zastępczych, pomoc dla osób, które osiągnęły pełnoletność w rodzinie zastępczej, oraz pomoc dla osób pełnoletnich opuszczających jednostki pomocy społecznej,
+
+    - zaopatrzenie inwalidów w przedmioty ortopedyczne,
+
+    - doraźne zaopatrzenie inwalidów w sprzęt domowy, bieliznę, pościel, odzież i inne,
+
+    - świadczenia wypłacane w ramach pomocy społecznej,
+
+    - dodatki mieszkaniowe,
+
+    - zasiłki rodzinne i dodatki do zasiłków rodzinnych, zasiłki pielęgnacyjne oraz świadczenia pielęgnacyjne,
+
+    - świadczenia społeczne, zlecone do wypłaty, podlegające finansowaniu ze środków budżetu państwa, między innymi ryczałty energetyczne, dodatki kombatanckie, świadczenia dla osób deportowanych,
+
+    - uposażenia sędziów i prokuratorów w stanie spoczynku oraz uposażenia rodzinne,
+
+    - świadczenie pieniężne z budżetu państwa dla medalistów igrzysk olimpijskich, paraolimpijskich, igrzysk głuchych oraz zawodów "Przyjaźń 84".
+
+321 Stypendia i zasiłki dla studentów
+
+323 Dopłaty do Funduszu Pożyczek i Kredytów Studenckich
+
+324 Stypendia dla uczniów
+
+325 Stypendia różne
+
+Paragraf ten obejmuje w szczególności:
+
+    - stypendia doktoranckie i stypendia naukowe,
+
+    - stypendia ministra za osiągnięcia w nauce,
+
+    - stypendia dla osób kierowanych: za granicę w celu prowadzenia badań naukowych, na studia wyższe, studia doktoranckie i podyplomowe, staże naukowe, artystyczne, habilitacyjne i inne staże oraz kursy podnoszące kwalifikacje,
+
+    - stypendia dla osób niebędących obywatelami polskimi, przyjeżdżających do Polski w celu odbycia studiów, studiów doktoranckich i podyplomowych, stażu naukowego, artystycznego oraz specjalizacyjnego, praktyk zawodowych oraz przewodów kwalifikacyjnych I i II stopnia,
+
+    - stypendia przyznawane osobom zajmującym się twórczością artystyczną, upowszechnianiem i ochroną dóbr kultury,
+
+    - stypendia ministra za wybitne osiągnięcia sportowe.
+
+326 Inne formy pomocy dla uczniów
+
+401 Wynagrodzenia osobowe pracowników
+
+402 Wynagrodzenia osobowe członków korpusu służby cywilnej
+
+Paragraf ten obejmuje wynagrodzenia osób należących do korpusu służby cywilnej (pracowników i urzędników służby cywilnej), o którym mowa w ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. nr 227, poz. 1505, z późn. zm.).
+
+403 Wynagrodzenia osobowe sędziów i prokuratorów oraz asesorów i aplikantów
+
+Wynagrodzenia osobowe, o których mowa w paragrafach 401 do 403, obejmują wynagrodzenia i inne świadczenia z tytułu pracy, wypłacane lub wydane w naturze (odpowiednio przeliczone): pracownikom - należne z tytułu istniejącego stosunku pracy lub stosunku służbowego, osobom wykonującym pracę nakładczą - należne z tytułu umowy o pracę nakładczą, młodocianym - z tytułu umowy o pracę w celu przygotowania zawodowego i osobom pełnoletnim, które kończą naukę zawodu na warunkach określonych dla młodocianych.
+
+Wynagrodzenia osobowe obejmują w szczególności:
+
+    - wynagrodzenia zasadnicze w formie czasowej, akordowej, prowizyjnej i innej,
+
+    - dodatki za staż pracy oraz inne dodatki (dodatkowe wynagrodzenia) za szczególne właściwości pracy, szczególne kwalifikacje lub warunki pracy,
+
+    - premie i nagrody regulaminowe i uznaniowe,
+
+    - dodatki za pracę w godzinach nadliczbowych,
+
+    - wynagrodzenia dodatkowe za prace wykonywane w ramach obowiązującego wymiaru czasu pracy, lecz niewynikające z zakresu czynności,
+
+    - wynagrodzenia za czynności przewidziane do wykonania poza normalnymi godzinami pracy w zakładzie lub w innym miejscu wyznaczonym przez pracodawcę (np. dyżury, pełnienie pogotowia domowego),
+
+    - dopłaty (dodatki) wyrównawcze (np. wyrównanie do wysokości kwoty minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów),
+
+    - wynagrodzenia za czas niewykonywania pracy, wypłacane ze środków pracodawców (wynagrodzenia za urlopy wypoczynkowe i dla poratowania zdrowia, za czas niezdolności do pracy wskutek choroby, za czas przestoju niezawinionego przez pracownika i inne),
+
+    - nagrody jubileuszowe, odprawy rentowe i emerytalne, ekwiwalenty pieniężne za niewykorzystany urlop wypoczynkowy i inne,
+
+    - uposażenia posłów i senatorów wraz z uposażeniem dodatkowym, odprawy emerytalne, rentowe i parlamentarne posłów i senatorów, odprawy pracowników biur klubów, kół poselskich i senatorskich oraz zespołów parlamentarnych w związku z zakończeniem kadencji Sejmu i Senatu, a także odprawy dla pracowników samorządowych zatrudnionych na podstawie wyboru, z którymi został rozwiązany stosunek pracy w związku z upływem kadencji,
+
+    - świadczenia o charakterze deputatowym (wartość świadczeń w części nieopłaconej przez pracownika) lub ich ekwiwalenty pieniężne (np. deputaty węglowe, energetyczne, środki spożywcze), a także ekwiwalenty za umundurowanie, jeżeli obowiązek jego noszenia wynika z obowiązujących ustaw (z wyjątkiem ujętych w paragrafie 418),
+
+    - świadczenia odszkodowawcze (np. w związku ze skróceniem okresu wypowiedzenia, świadczenia wyrównawcze wypłacane pracownikom, którzy wskutek wypadku przy pracy lub choroby zawodowej doznali stałego lub długotrwałego uszczerbku na zdrowiu),
+
+    - świadczenia pieniężne w wysokości zasiłku z ubezpieczenia społecznego wypłacane sędziom i prokuratorom w przypadkach, w których pracownikom podlegającym ubezpieczeniu społecznemu przysługują zasiłki niezależnie od prawa do wynagrodzenia.
+
+Do wynagrodzeń osobowych nie zalicza się wynagrodzeń z tytułu rozporządzania przez pracowników prawami autorskimi do utworów stworzonych w ramach stosunku pracy.
+
+404 Dodatkowe wynagrodzenie roczne
+
+Paragraf ten obejmuje wydatki ponoszone zgodnie z ustawą z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. nr 160, poz. 1080, z późn. zm.).
+
+405 Uposażenia żołnierzy zawodowych oraz funkcjonariuszy
+
+Paragraf ten obejmuje uposażenia zasadnicze wraz z dodatkami dla żołnierzy zawodowych, policjantów, funkcjonariuszy Straży Granicznej, funkcjonariuszy Państwowej Straży Pożarnej, funkcjonariuszy Biura Ochrony Rządu, funkcjonariuszy celnych oraz uposażenia zasadnicze wraz z dodatkami, nagrody uznaniowe i zapomogi dla funkcjonariuszy Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Centralnego Biura Antykorupcyjnego.
+
+406 Pozostałe należności żołnierzy zawodowych oraz funkcjonariuszy
+
+Paragraf ten obejmuje inne należności (świadczenia) przysługujące żołnierzom zawodowym oraz funkcjonariuszom, niezaliczone do paragrafu 405.
+
+407 Dodatkowe uposażenie roczne dla żołnierzy zawodowych oraz nagrody roczne dla funkcjonariuszy
+
+408 Uposażenia i świadczenia pieniężne wypłacane przez okres roku żołnierzom i funkcjonariuszom zwolnionym ze służby
+
+409 Honoraria
+
+Paragraf ten obejmuje w szczególności:
+
+    - wynagrodzenie przekazywane autorowi lub artyście wykonawcy z tytułu korzystania z utworu lub artystycznego wykonywania przez podmioty wypłacające wynagrodzenie, jeżeli utwór lub artystyczne wykonanie zostały stworzone przez pracowników na podstawie umowy o pracę lub przez osoby fizyczne na podstawie umowy zlecenia lub umowy o dzieło,
+
+    - wynagrodzenia (tantiemy) wypłacane twórcom lub artystom wykonawcom przez organizacje zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi,
+
+    - wynagrodzenia za opracowania naukowe i badawczo-rozwojowe wykonywane przez pracowników jednostek naukowych i jednostek badawczo-rozwojowych, stanowiące wykładnik działalności twórczej,
+
+    - wynagrodzenia i tantiemy wypłacane twórcom przez stowarzyszenia twórców,
+
+    - wynagrodzenia za opracowania naukowo-badawcze i rozwojowe wykonywane przez pracowników placówek naukowych i szkół wyższych poza obowiązującym ich czasem pracy lub poza obowiązującym wymiarem zajęć - wyłącznie w zakresie prac twórczych.
+
+410 Wynagrodzenia agencyjno-prowizyjne
+
+Paragraf ten obejmuje wynagrodzenia osób fizycznych należne za zlecone czynności wykonywane na podstawie umowy agencyjnej, opłacane od dokonywanych transakcji kupna lub sprzedaży oraz wykonywanych usług o określonej wysokości stawki prowizyjnej.
+
+411 Składki na ubezpieczenia społeczne
+
+412 Składki na Fundusz Pracy
+
+413 Składki na ubezpieczenie zdrowotne
+
+Paragraf ten obejmuje składki na ubezpieczenie zdrowotne opłacane z budżetu państwa za osoby wymienione w art. 86 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. nr 164, poz. 1027, z późn. zm.).
+
+414 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+
+Paragraf ten obejmuje wpłaty, o których mowa w art. 21 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. nr 14, poz. 92, z późn. zm.).
+
+415 Dopłaty w spółkach prawa handlowego Paragraf ten obejmuje dopłaty, o których mowa w art. 177 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. nr 94, poz. 1037, z późn. zm.).
+
+416 Pokrycie ujemnego wyniku finansowego i przejętych zobowiązań po likwidowanych i przekształcanych jednostkach zaliczanych do sektora finansów publicznych
+
+Paragraf ten obejmuje między innymi wydatki, o których mowa w art. 60 ust. 4 i 6 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
+
+417 Wynagrodzenia bezosobowe
+
+Paragraf ten obejmuje wynagrodzenia z tytułu umów zlecenia lub umów o dzieło, z wyjątkiem honorariów zaliczanych do paragrafu 409, a w szczególności:
+
+    - wynagrodzenia wypłacane na podstawie umowy zlecenia lub umowy o dzieło,
+
+    - wynagrodzenia wypłacane na podstawie odrębnych przepisów osobom, które wykonują określone czynności na polecenie właściwych organów, w szczególności biegłym w postępowaniu przygotowawczym, sądowym i administracyjnym, wynagrodzenia za czynności arbitrów, wynagrodzenia tłumaczy przysięgłych, wynagrodzenia kuratorów zastępujących strony w postępowaniu,
+
+    - wynagrodzenia wypłacane osobom fizycznym za udział w komisjach, radach, zespołach, komitetach, radach nadzorczych, zarządach spółek, jury w konkursach, radach naukowych i naukowo-technicznych, niezależnie od sposobu ich powoływania,
+
+    - dodatkowe wynagrodzenia radców prawnych z tytułu zastępstwa w postępowaniu sądowym wypłacane na podstawie umowy cywilnoprawnej.
+
+Ponadto ujmuje się w tym paragrafie wynagrodzenia:
+
+    - przysługujące członkom komisji wojewódzkiej do spraw służby zastępczej i członkom komisji do spraw służby zastępczej za udział w pracach tych komisji,
+
+    - wynagrodzenia dla pozaetatowych członków samorządowych kolegiów odwoławczych za udział w posiedzeniach,
+
+    - wynagrodzenia ryczałtowe dla pozaetatowych członków kolegiów regionalnych izb obrachunkowych.
+
+418 Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy
+
+Paragraf ten obejmuje ekwiwalenty i równoważniki pieniężne niezaliczone do paragrafu 307, a w szczególności: ekwiwalenty i równoważniki pieniężne otrzymane w zamian za umundurowanie, wyżywienie, środki higieny wypłacane żołnierzom i funkcjonariuszom.
+
+420 Fundusz operacyjny
+
+421 Zakup materiałów i wyposażenia
+
+Nie zalicza się do tego paragrafu zakupów dokonanych z paragrafów 422-425, a także zakupów dóbr przekazywanych osobom fizycznym w ramach deputatów i innych świadczeń w naturze dokonywanych z wydatków osobowych, jak również w roku budżetowym 2010 zakupów dokonanych z paragrafów 474 i 475.
+
+422 Zakup środków żywności
+
+Paragraf ten obejmuje pełne wydatki na zakup produktów żywnościowych, w szczególności dla osób korzystających z internatów i stołówek, dla dzieci w żłobkach, klubach dziecięcych, u dziennych opiekunów i w przedszkolach, chorych w szpitalach, krwiodawców, podopiecznych w zakładach opiekuńczych, wychowanków zakładów poprawczych i schronisk dla nieletnich, uczestników obozów, więźniów, żołnierzy. Opłaty za wyżywienie obejmują odpowiednie podziałki dochodów. Paragraf ten obejmuje także wydatki na zakup i utrzymanie inwentarza żywego przeznaczonego do uboju na własne potrzeby wymienionych zakładów.
+
+423 Zakup leków, wyrobów medycznych i produktów biobójczych
+
+Paragraf ten obejmuje w szczególności wydatki zakładów leczniczych i sanitarnych, zakładów dla podopiecznych, zakładów dla nieuleczalnie chorych, wydatki jednostek wymiaru sprawiedliwości, wydatki inspektoratów weterynarii, inspekcji sanitarnych na zakup stosowanych u ludzi i zwierząt leków, krwi od krwiodawców, środków opatrunkowych, opakowań do leków, błon, papierów i chemikaliów rentgenowskich, materiałów do analiz, środków dezynfekcyjnych i produktów biobójczych itp.
+
+424 Zakup pomocy naukowych, dydaktycznych i książek
+
+425 Zakup sprzętu i uzbrojenia
+
+Paragraf ten służy do wyodrębnienia wydatków ponoszonych na zakup specjalistycznego sprzętu i uzbrojenia wykorzystywanego na potrzeby obronności i bezpieczeństwa publicznego i występuje w Ministerstwie Spraw Wewnętrznych i Administracji, w Agencji Bezpieczeństwa Wewnętrznego, w Agencji Wywiadu i w budżetach wojewodów - w dziale 754 Bezpieczeństwo publiczne i ochrona przeciwpożarowa, w Ministerstwie Sprawiedliwości - w dziale 755 Wymiar sprawiedliwości i w Ministerstwie Finansów oraz w urzędach kontroli skarbowej i w izbach celnych - w dziale 750 Administracja publiczna.
+
+Do paragrafu tego nie zalicza się wydatków na zakup środków trwałych niezaliczonych do pierwszego wyposażenia, których wartość początkowa jest wyższa od kwoty określonej w art. 16f ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. nr 54, poz. 654, z późn. zm.).
+
+426 Zakup energii
+
+Paragraf ten obejmuje opłaty za dostawę energii elektrycznej, cieplnej i innej, gazu oraz wody.
+
+427 Zakup usług remontowych
+
+Paragraf ten obejmuje wydatki na zakup usług remontowych (z wyjątkiem wydatków na zakup usług świadczonych przez osoby fizyczne, objętych paragrafami: 401 do 403, 405, 406, 408 do 410 i 417 oraz 434), w szczególności:
+
+    - usługi obce o charakterze przemysłowym, polegające głównie na przywracaniu wartości użytkowej wyrobów przemysłowych, między innymi usługi konserwacyjne i naprawcze wyrobów przemysłowych, np. maszyn, środków transportu, urządzeń, sprzętu,
+
+    - usługi budowlano-montażowe, w zakresie remontów i konserwacji pomieszczeń i budynków, a także koszty zleconego opracowania dokumentacji typowej oraz zleconego opracowania założeń projektowych,
+
+    - usługi w zakresie remontów dróg.
+
+428 Zakup usług zdrowotnych
+
+W paragrafie tym ujmuje się również wydatki z zakresu medycyny pracy obejmujące badania wstępne, okresowe i profilaktyczne pracowników.
+
+429 Zakup świadczeń zdrowotnych dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego
+
+430 Zakup usług pozostałych
+
+Paragraf ten obejmuje wydatki na zakup usług (z wyjątkiem: usług świadczonych przez osoby fizyczne, objętych paragrafami: 401 do 403, 405, 406, 408 do 410 i 417, oraz usług wymienionych w paragrafach: 426 do 429, 432 do 440, 461 do 463 i 470), a w szczególności:
+
+    - usługi drukarskie, introligatorskie, powielanie, kopiowanie,
+
+    - usługi transportowe związane z przewozem rzeczy, między innymi: opłaty za przewóz wszelkich towarów obcymi środkami transportu przy zakupach loco magazyn dostawcy, wraz z kosztami załadowania i wyładowania, jeśli nie zostały one wyodrębnione w rachunku za transport, np. transport opału z dostawą do piwnic,
+
+    - opłaty za usługi pocztowe i telegraficzne,
+
+    - usługi w zakresie utrzymania dróg,
+
+    - usługi pralnicze,
+
+    - usługi kominiarskie, wywóz śmieci, utrzymanie parków i zieleńców,
+
+    - usługi ośrodków mechanicznego i automatycznego przetwarzania danych,
+
+    - dopłaty do biletów dla uczniów dojeżdżających do szkół,
+
+    - druk i dystrybucja znaków akcyzy,
+
+    - usługi komunalne i mieszkaniowe, między innymi: opłaty za wynajem sal, wydatki związane z zakwaterowaniem uczestników kursów szkoleniowych, wydatki na utrzymanie cudzoziemców (np. hotele, wyżywienie, przejazdy), opłaty za usługi pogrzebowe, np. dotyczące osób zasłużonych, podopiecznych,
+
+    - usługi w zakresie oświaty i wychowania oraz szkolnictwa wyższego, między innymi: zwroty kosztów wyżywienia w internatach wychowanków domów dziecka i innych zakładów opiekuńczo-wychowawczych, wydatki dotyczące przejazdów, zakwaterowania i wyżywienia uczniów i dzieci na wycieczkach oraz imprezach urządzanych w ramach programów nauczania i wychowania, opłaty za studia organizowane przez szkoły wyższe w zakresie dokształcania kadr,
+
+    - usługi w zakresie kultury i sztuki, kultury fizycznej oraz turystyki i wypoczynku, między innymi: opłaty radiofoniczne i telewizyjne,
+
+    - usługi naukowo-badawcze,
+
+    - usługi reklamowe, usługi dotyczące ogłoszeń, obwieszczeń, rozprowadzania pism,
+
+    - usługi w zakresie badania technicznego pojazdów, wytwarzania tablic rejestracyjnych dla organów właściwych w sprawach rejestracji pojazdów,
+
+    - koszty i prowizje bankowe,
+
+    - usługi w zakresie utrzymania infrastruktury zapewniającej dostęp do portów i infrastruktury portowej,
+
+    - usługi w zakresie robót związanych z ochroną brzegu morskiego,
+
+    - usługi w zakresie ratownictwa morskiego.
+
+432 Staże i specjalizacje medyczne
+
+433 Zakup usług przez jednostki samorządu terytorialnego od innych jednostek samorządu terytorialnego
+
+Paragraf ten obejmuje w szczególności opłaty za pobyt w domu pomocy społecznej, o których mowa w art. 61 ust. 2 pkt 3 i ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+
+434 Zakup usług remontowo-konserwatorskich dotyczących obiektów zabytkowych będących w użytkowaniu jednostek budżetowych
+
+Paragraf ten obejmuje wydatki na prace konserwatorskie oraz restauratorskie (z wyjątkiem wydatków na zakup usług świadczonych przez osoby fizyczne, objętych paragrafami: 401 do 403, 405, 406, 408 do 410 i 417) ponoszone zgodnie z ustawą z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. nr 162, poz. 1568, z późn. zm.).
+
+435 Zakup usług dostępu do sieci Internet
+
+436 Opłaty z tytułu zakupu usług telekomunikacyjnych świadczonych w ruchomej publicznej sieci telefonicznej
+
+437 Opłaty z tytułu zakupu usług telekomunikacyjnych świadczonych w stacjonarnej publicznej sieci telefonicznej
+
+438 Zakup usług obejmujących tłumaczenia Paragraf ten obejmuje wydatki na usługi świadczone na rzecz jednostki przez przedsiębiorcę, o którym mowa w art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. nr 155, poz. 1095, z późn. zm.).
+
+439 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii
+
+Paragraf ten obejmuje wydatki na usługi świadczone na rzecz jednostki przez przedsiębiorcę, o którym mowa w art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, z wyłączeniem ekspertyz, analiz, opinii i innych materiałów sporządzanych i opłacanych w ramach realizowanej przez jednostkę inwestycji.
+
+440 Opłaty za administrowanie i czynsze za budynki, lokale i pomieszczenia garażowe
+
+441 Podróże służbowe krajowe
+
+Paragraf ten obejmuje wydatki na podróże służbowe krajowe pracowników, ponoszone zgodnie z przepisami rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 19 grudnia 2002 r. w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju (Dz. U. nr 236, poz. 1990, z późn. zm.), inne wydatki zaliczone na podstawie odrębnych przepisów do wydatków na podróże służbowe krajowe, np. zwrot kosztów za używanie przez pracowników własnych pojazdów do celów służbowych w granicach administracyjnych miasta lub gminy, przejazdy miejscowe pracowników, wyrównanie wydatków ponoszonych przez pracowników w związku z wykonywaniem pracy poza stałym miejscem pracy lub poza stałym miejscem zamieszkania oraz przeniesieniem do pracy w innej miejscowości.
+
+442 Podróże służbowe zagraniczne
+
+Paragraf ten obejmuje wydatki na podróże służbowe zagraniczne pracowników, ponoszone zgodnie z przepisami rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 19 grudnia 2002 r. w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju (Dz. U. nr 236, poz. 1991, z późn. zm.).
+
+443 Różne opłaty i składki
+
+Paragraf ten obejmuje różnego rodzaju płatności oraz składki, między innymi:
+
+    - opłaty za ubezpieczenia samochodów i innych pojazdów (łącznie z kierowcą i pasażerami),
+
+    - opłaty za patenty krajowe,
+
+    - opłaty za patent europejski,
+
+    - opłaty za zgłaszane wynalazki,
+
+    - składki na rzecz stowarzyszeń krajowych, inne,
+
+    - kaucje i wkłady mieszkaniowe,
+
+    - koszty ubezpieczeń chorobowych praktykantów,
+
+    - różne ubezpieczenia rzeczowe.
+
+444 Odpisy na zakładowy fundusz świadczeń socjalnych
+
+Paragraf ten obejmuje:
+
+    - wydatki ponoszone zgodnie z przepisami ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. nr 70, poz. 335, z późn. zm.),
+
+    - wydatki ponoszone z funduszu socjalnego tworzonego na podstawie art. 27 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. nr 8, poz. 66, z późn. zm.),
+
+    - wydatki ponoszone z funduszu socjalnego tworzonego na podstawie art. 27 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. nr 8, poz. 67, z późn. zm.),
+
+    - wydatki ponoszone zgodnie z art. 53 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz. U. z 2006 r. nr 97, poz. 674, z późn. zm.),
+
+    - wydatki ponoszone zgodnie z art. 157 ust. 1 i 2 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym.
+
+445 Udzielone pożyczki na zaspokojenie potrzeb mieszkaniowych sędziów i prokuratorów
+
+446 Podatek dochodowy od osób prawnych
+
+447 Cła
+
+448 Podatek od nieruchomości
+
+449 Pozostałe podatki na rzecz budżetu państwa
+
+450 Pozostałe podatki na rzecz budżetów jednostek samorządu terytorialnego
+
+451 Opłaty na rzecz budżetu państwa
+
+452 Opłaty na rzecz budżetów jednostek samorządu terytorialnego
+
+453 Podatek od towarów i usług (VAT)
+
+W paragrafie tym ujmuje się między innymi wydatki krajowe związane z rozliczeniem interwencji na wspólnotowych rynkach rolnych.
+
+454 Składki do organizacji międzynarodowych
+
+Nie zalicza się do tego paragrafu składek ujmowanych w paragrafie 469.
+
+455 Szkolenia członków korpusu służby cywilnej Paragraf ten obejmuje w szczególności wydatki na szkolenia centralne, powszechne, specjalistyczne oraz szkolenia prowadzone w ramach studium zarządzania strategicznego dla dyrektorów generalnych, szkolenia w ramach indywidualnego programu rozwoju zawodowego urzędnika służby cywilnej, a także na szkolenia związane z organizacją służby przygotowawczej. Niezależnie od rodzaju działalności szkoleniowej paragraf ten uwzględnia również wydatki stanowiące wypłatę wynagrodzenia z tytułu umów o dzieło lub umów zlecenia, których przedmiotem są szkolenia członków korpusu służby cywilnej.
+
+456 Odsetki od dotacji oraz płatności: wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości
+
+Paragraf ten obejmuje również odsetki naliczone na podstawie art. 168 ust. 3 ustawy.
+
+457 Odsetki od nieterminowych wpłat z tytułu pozostałych podatków i opłat
+
+458 Pozostałe odsetki
+
+459 Kary i odszkodowania wypłacane na rzecz osób fizycznych
+
+Paragraf ten obejmuje między innymi odszkodowania Skarbu Państwa dla osób niesłusznie represjonowanych oraz wypłaty z tytułu realizacji odpowiedzialności Skarbu Państwa za wkłady oszczędnościowe ludności.
+
+460 Kary i odszkodowania wypłacane na rzecz osób prawnych i innych jednostek organizacyjnych
+
+461 Koszty postępowania sądowego i prokuratorskiego
+
+Paragraf ten obejmuje w szczególności:
+
+    - należności uczelni medycznych i innych instytucji wyznaczonych do wydawania opinii,
+
+    - koszty nieopłaconej pomocy prawnej udzielanej z urzędu,
+
+    - koszty egzekucji komorniczej,
+
+    - obserwacje szpitalne,
+
+    - koszty przewozu zwłok,
+
+    - sesje wyjazdowe sądu,
+
+    - koszty sprowadzania i przewozu oskarżonego, świadków i biegłych,
+
+    - opłaty za parkingi i holowanie zabezpieczonych pojazdów,
+
+    - doręczanie wezwań i innych pism,
+
+    - koszty kontroli i utrwalania rozmów telefonicznych,
+
+    - ogłoszenia w prasie, radiu i telewizji,
+
+    - koszty przejazdów sędziów, prokuratorów i innych osób z powodu czynności w toku postępowania,
+
+    - koszty oględzin, badań przedsięwziętych w toku postępowania oraz przesyłek i przechowywania zajętych przedmiotów, jak również ich sprzedaży,
+
+    - koszty zastępstwa prawnego i procesowego.
+
+462 Umorzenie należności agencji płatniczych Paragraf ten obejmuje w szczególności wydatki z tytułu rozliczania pożyczek dla agencji płatniczych na realizację zadań Wspólnej Polityki Rolnej.
+
+463 Rozliczenie wydatków agencji płatniczych związanych z interwencją rynkową w ramach Wspólnej Polityki Rolnej
+
+Paragraf ten obejmuje w szczególności wydatki z tytułu rozliczania pożyczek dla agencji płatniczych na realizację zadań Wspólnej Polityki Rolnej.
+
+464 Wydatki egzekucyjne poniesione w postępowaniu egzekucyjnym wszczętym i prowadzonym na poczet należności objętych wnioskiem obcego państwa, nieściągnięte od zobowiązanego
+
+465 Odsetki od nieterminowych wpłat podatku dochodowego od osób prawnych
+
+466 Odsetki od nieterminowych wpłat ceł
+
+467 Odsetki od nieterminowych wpłat podatku od nieruchomości
+
+468 Odsetki od nieterminowych wpłat podatku od towarów i usług (VAT)
+
+469 Składki do organizacji międzynarodowych, w których uczestnictwo związane jest z członkostwem w Unii Europejskiej
+
+470 Szkolenia pracowników niebędących członkami korpusu służby cywilnej
+
+472 Amortyzacja
+
+474 Zakup materiałów papierniczych do sprzętu drukarskiego i urządzeń kserograficznych
+
+475 Zakup akcesoriów komputerowych, w tym programów i licencji
+
+476 Uposażenia żołnierzy Narodowych Sił Rezerwowych
+
+477 Rekompensata dla pracodawcy zatrudniającego żołnierza Narodowych Sił Rezerwowych
+
+478 Składki na Fundusz Emerytur Pomostowych
+
+481 Rezerwy
+
+Paragraf ten nie obejmuje rezerwy wymienionej w paragrafie 482 i 680.
+
+482 Rezerwy subwencji ogólnej
+
+Paragraf ten obejmuje rezerwy, o których mowa w art. 26 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+490 Pokrycie zobowiązań zakładów opieki zdrowotnej
+
+Paragraf ten obejmuje wydatki z tytułu przejęcia zobowiązań zakładów opieki zdrowotnej na podstawie przepisów ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. nr 78, poz. 684, z późn. zm.).
+
+493 Wydatki państwowego funduszu celowego na cele związane z zaspokojeniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa
+
+Paragraf ten dotyczy wydatków, o których mowa w art. 56 ust. 1 pkt 1 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. nr 171, poz. 1397, z późn. zm.).
+
+494 Dofinansowanie z państwowego funduszu celowego procesów likwidacyjnych i uzupełnienie środków na pokrycie kosztów postępowania upadłościowego przedsiębiorstw państwowych oraz spółek, w których Skarb Państwa jest udziałowcem lub akcjonariuszem
+
+Paragraf ten dotyczy wydatków, o których mowa w art. 49 ust. 3 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych oraz w art. 2 pkt 5 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. nr 106, poz. 493, z późn. zm.).
+
+495 Różnice kursowe
+
+W paragrafie tym ujmuje się między innymi wydatki z tytułu rozliczania pożyczek dla agencji płatniczych na realizację zadań Wspólnej Polityki Rolnej.
+
+496 Stałe zaliczki do rozliczenia udzielone placówkom polskim za granicą
+
+497 Nierozliczone środki budżetowe przekazane jednostkom budżetowym mającym siedziby poza granicami Rzeczypospolitej Polskiej oraz jednostkom wojskowym poza granicami państwa na finansowanie wydatków
+
+Paragraf ten nie występuje w planowaniu i ma zastosowanie w sprawozdaniach miesięcznych dysponentów części budżetowych, którym podlegają jednostki budżetowe mające siedziby poza granicami Rzeczypospolitej Polskiej. Dotyczy środków przekazanych placówkom w trybie określonym w rozporządzeniu Ministra Finansów dotyczącym sposobu prowadzenia gospodarki finansowej jednostek budżetowych oraz samorządowych zakładów budżetowych, wydanym na podstawie upoważnienia zawartego w art. 17 ustawy, ujmowanych w sprawozdaniach miesięcznych, o których mowa w przepisach o sprawozdawczości budżetowej.
+
+W paragrafie tym ujmuje się również nierozliczone środki budżetowe przekazane jednostkom wojskowym biorącym udział w operacjach poza granicami państwa w ramach Polskich Kontyngentów Wojskowych.
+
+498 Zwroty dotyczące rozliczeń z Komisją Europejską W paragrafie tym ujmuje się między innymi wydatki z tytułu zwrotu środków do Komisji Europejskiej oraz do budżetu państwa, przeznaczonych na realizację przedsięwzięć w ramach danego programu finansowanego ze środków bezzwrotnych pochodzących z Unii Europejskiej, w tym w ramach programów i projektów finansowanych ze środków z funduszy strukturalnych i Funduszu Spójności.
+
+601 Wydatki na zakup i objęcie akcji, wniesienie wkładów do spółek prawa handlowego oraz na uzupełnienie funduszy statutowych banków państwowych i innych instytucji finansowych
+
+602 Wydatki na wniesienie wkładów do spółdzielni
+
+605 Wydatki inwestycyjne jednostek budżetowych
+
+606 Wydatki na zakupy inwestycyjne jednostek budżetowych
+
+607 Wydatki inwestycyjne samorządowych zakładów budżetowych
+
+608 Wydatki na zakupy inwestycyjne samorządowych zakładów budżetowych
+
+611 Wydatki inwestycyjne państwowych funduszy celowych
+
+612 Wydatki na zakupy inwestycyjne państwowych funduszy celowych
+
+613 Wydatki inwestycyjne pozostałych jednostek
+
+614 Wydatki na zakupy inwestycyjne pozostałych jednostek
+
+Z wydatków na cele inwestycyjne wyodrębnione zostały zakupy. W paragrafach: 605, 607, 611 i 613 ujmuje się wydatki na inwestycje, bez zakupów inwestycyjnych, które należy klasyfikować odpowiednio w paragrafach: 606, 608, 612 i 614. Zakupy te odnoszą się do środków trwałych niezaliczonych do pierwszego wyposażenia, których wartość początkowa jest wyższa od kwoty określonej w art. 16f ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, a odpisy amortyzacyjne od tych środków trwałych nie są dokonywane jednorazowo lub gdy od nich nie dokonuje się odpisów amortyzacyjnych w przypadkach określonych w tej ustawie.
+
+616 Wydatki na współfinansowanie programów inwestycyjnych NATO i UE
+
+Paragraf ten obejmuje wydatki na programy w dziedzinie bezpieczeństwa określone przez Ministerstwo Obrony Narodowej.
+
+617 Wpłaty jednostek na państwowy fundusz celowy na finansowanie lub dofinansowanie zadań inwestycyjnych
+
+Paragraf ten obejmuje wpłaty, o których mowa w art. 13 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz wpłaty, o których mowa w art. 8a ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej.
+
+618 Środki na inwestycje na drogach publicznych powiatowych i wojewódzkich oraz na drogach powiatowych, wojewódzkich i krajowych w granicach miast na prawach powiatu
+
+W paragrafie tym ujmuje się środki, o których mowa w art. 26 ust. 1 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+619 Dotacje celowe z budżetu jednostki samorządu terytorialnego, udzielone w trybie art. 221 ustawy, na dofinansowanie inwestycji w ramach zadań zleconych do realizacji organizacjom prowadzącym działalność pożytku publicznego
+
+Dotacji celowych ujmowanych w tym paragrafie nie wykazuje się w paragrafie 623.
+
+620 Dotacje celowe w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 i 6 ustawy, lub płatności w ramach budżetu środków europejskich
+
+Paragraf ten stosuje się również do rozliczeń dotacji rozwojowej otrzymanej przed dniem 31 grudnia 2009 r., w tym zwrotów środków tej dotacji, oraz do zwrotów środków, o których mowa powyżej. Paragrafu tego nie stosuje się w przypadku środków uzyskanych przez państwowe jednostki budżetowe na wydatki ponoszone bezpośrednio przez te jednostki.
+
+621 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych samorządowych zakładów budżetowych
+
+622 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora finansów publicznych
+
+623 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych
+
+624 Środki przekazywane z budżetu państwa na Fundusz Rozwoju Inwestycji Komunalnych
+
+626 Dotacje z państwowych funduszy celowych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek sektora finansów publicznych
+
+627 Dotacje z państwowych funduszy celowych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych
+
+628 Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do sektora finansów publicznych
+
+W paragrafie tym ujmuje się również dotacje, o których mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+629 Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych
+
+630 Dotacja celowa na pomoc finansową udzielaną między jednostkami samorządu terytorialnego na dofinansowanie własnych zadań inwestycyjnych i zakupów inwestycyjnych
+
+631 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz innych zadań zleconych gminom ustawami
+
+632 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez gminę na podstawie porozumień z organami administracji rządowej
+
+633 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych gmin (związków gmin)
+
+641 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat
+
+642 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez powiat na podstawie porozumień z organami administracji rządowej
+
+643 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych powiatu
+
+651 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa
+
+652 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej
+
+653 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych samorządu województwa
+
+654 Dotacje celowe przekazane z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań inwestycyjnych objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez samorządowe instytucje kultury
+
+655 Dotacje celowe przekazane z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań inwestycyjnych objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez jednostki niezaliczane do sektora finansów publicznych
+
+656 Dotacje celowe przekazane z budżetu na finansowanie lub dofinansowanie zadań inwestycyjnych obiektów zabytkowych jednostkom zaliczanym do sektora finansów publicznych
+
+657 Dotacje celowe przekazane z budżetu na finansowanie lub dofinansowanie zadań inwestycyjnych obiektów zabytkowych jednostkom niezaliczanym do sektora finansów publicznych
+
+658 Wydatki inwestycyjne dotyczące obiektów zabytkowych będących w użytkowaniu jednostek budżetowych
+
+661 Dotacje celowe przekazane gminie na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+662 Dotacje celowe przekazane dla powiatu na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+663 Dotacje celowe przekazane do samorządu województwa na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego
+
+664 Dotacja celowa przekazana jednostce samorządu terytorialnego przez inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów)
+
+665 Wpłaty gmin i powiatów na rzecz innych jednostek samorządu terytorialnego oraz związków gmin lub związków powiatów na dofinansowanie zadań inwestycyjnych i zakupów inwestycyjnych
+
+666 Zwroty dotacji oraz płatności, w tym wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości, dotyczące wydatków majątkowych
+
+Paragraf ten ma zastosowanie w szczególności w budżecie jednostki samorządu terytorialnego i obejmuje zwroty dotacji oraz zwroty płatności, o których mowa w art. 186 pkt 2 ustawy, zaliczane do wydatków majątkowych, o których mowa w art. 236 ust. 4 ustawy.
+
+667 Środki Funduszu Promocji Kultury przekazane Polskiemu Instytutowi Sztuki Filmowej na realizację zadań inwestycyjnych
+
+680 Rezerwy na inwestycje i zakupy inwestycyjne
+
+801 Rozliczenia z bankami związane z obsługą długu publicznego
+
+802 Wypłaty z tytułu gwarancji i poręczeń
+
+806 Odsetki i dyskonto od skarbowych papierów wartościowych, kredytów i pożyczek oraz innych instrumentów finansowych, związanych z obsługą długu zagranicznego
+
+807 Odsetki i dyskonto od skarbowych papierów wartościowych, kredytów i pożyczek oraz innych instrumentów finansowych, związanych z obsługą długu krajowego
+
+808 Koszty emisji skarbowych papierów wartościowych oraz inne opłaty i prowizje
+
+809 Koszty emisji samorządowych papierów wartościowych oraz inne opłaty i prowizje
+
+811 Odsetki od samorządowych papierów wartościowych lub zaciągniętych przez jednostkę samorządu terytorialnego kredytów i pożyczek
+
+812 Odsetki od pożyczek udzielonych przez jednostkę samorządu terytorialnego
+
+813 Dyskonto od samorządowych papierów wartościowych
+
+814 Wydatki związane z finansowaniem programu F-16
+
+851 Wpłata obliczona na podstawie Dochodu Narodowego Brutto
+
+852 Wpłata obliczona, zgodnie z metodologią wynikającą z przepisów Unii Europejskiej, na podstawie podatku od towarów i usług
+
+853 Wpłata z tytułu udziału w opłatach celnych i opłatach rolnych
+
+854 Wpłata z tytułu udziału w opłatach cukrowych
+
+855 Różne rozliczenia finansowe
+
+Paragraf ten obejmuje w szczególności karne odsetki z tytułu zwłoki w przekazywaniu środków własnych Unii Europejskiej.
+
+856 Wpłata z tytułu finansowania rabatu brytyjskiego
+
+857 Wpłata z tytułu finansowania obniżki wkładów opartych na Dochodzie Narodowym Brutto, przyznanej Holandii i Szwecji w latach 2007-2013
+A   A   A  
+ Pełna treść
+ aktu prawnego
+[Drukuj pełną treść aktu prawnego]
+ Drukuj pełną treść
+[Drukuj widoczną część aktu prawnego]
+ Drukuj widoczną część
+ 
+  Poprzedni
+Spis treści
+ Następny 
+
+ 
+pokaż
+Sklep internetowy - sklep.gofin.plSklep internetowy - sklep.gofin.plSklep internetowy - sklep.gofin.pl
+Komplety promocyjne
+    
+Czasopisma i Gazeta
+    
+Wydawnictwa internetowe
+    
+Inne produkty i usługi
+• Komplety z rabatami i nagrodami
+   w prenumeracie na cały 2014 r.:
+ kpl. nr 1 z 16% rabatem i nagrodami
+ kpl. nr 2 z 12% rabatem i nagrodami
+ kpl. nr 3 z 6% rabatem i nagrodami
+    
+• Czasopisma
+  • Biuletyn Informacyjny
+  • Ubezpieczenia i Prawo Pracy
+  • Poradnik VAT
+  • Przegląd Podatku Dochodowego
+  • Zeszyty Metodyczne Rachunkowości
+• Gazeta Podatkowa
+    
+• Serwis Głównego Księgowego (zobacz film)
+• Czasopisma Księgowych on-line (zobacz film)
+  • Biuletyn Informacyjny on-line
+  • Ubezpieczenia i Prawo Pracy on-line
+  • Poradnik VAT on-line
+  • Przegląd Podatku Dochodowego on-line
+  • Zeszyty Metodyczne Rachunkowości on-line
+• Gazeta Podatkowa on-line
+    
+• NOWOŚĆ ! Program Druki GOFIN
+  do zastosowań komercyjnych
+• Książki 2013
+• Dodatki do czasopism 2013
+• Segregatory i boksy do czasopism
+• Czasopisma 2012
+• Dodatki do czasopism 2012
+• Reklama, Poligrafia
+Wydawnictwo Podatkowe GOFIN
+Biuro Obsługi Klienta »
+Zamów egzemplarz bezpłatny »
+Przewodnik Prenumeratora »
+Sklep internetowy »
+ 
+O Wydawnictwie
+Księgowi stawiają na GOFIN
+Sklep internetowy
+PoznajProdukty.gofin.pl
+Regulamin
+Reklama
+Newslettery
+Kontakt
+Polityka prywatności
+Wydawnictwo Podatkowe GOFIN sp. z o.o., ul. Owocowa 8, 66-400 Gorzów Wlkp., tel. 95 720 85 40, faks 95 720 85 60
+Rozporządzenie Ministra Finansów z dnia 2.03.2010 r. w sprawie szczegółowej klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych
+ 
+stan prawny na dzień: 1.01.2012 r.  
+
