@@ -9,7 +9,7 @@ def generate_expenditures():
     table = dbf.Table('data/Rb28s.dbf')
     table.open()
 
-    par_data = par_mapper.get_par('par_input.txt')
+    par_data = par_mapper.get_par('data/par_input.txt')
     gminy_data = gminy.getGminy(gminy.WORKBOOK)
     
     result = {}
