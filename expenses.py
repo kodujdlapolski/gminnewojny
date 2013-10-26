@@ -5,6 +5,8 @@ import dbf
 import gminy
 import par_mapper
 import cities
+import os
+import cPickle
 
 def generate_expenditures():
     table = dbf.Table('data/Rb28s.dbf')
@@ -47,7 +49,19 @@ def generate_expenditures():
 
     return result
 
-DATA = generate_expenditures()
+CACHE_FILE_NAME = 'data.cache'
+if os.path.isfile(CACHE_FILE_NAME):
+    print 'Loading cached data from', CACHE_FILE_NAME
+    with open(CACHE_FILE_NAME, 'r') as f:
+        DATA = cPickle.load(f)
+else:
+    print 'Cache file doesn\'t exist, data will be generated...'
+    DATA = generate_expenditures()
+    print 'Saving generated data to a cache file...'
+    with open(CACHE_FILE_NAME, 'w') as f:
+        cPickle.dump(DATA, f)
+    print 'Done with data.'
+
 
 def get_data_for_gmina(gmina, planned=False):
     gmina = gmina.lower()
