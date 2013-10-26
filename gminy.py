@@ -1,9 +1,9 @@
 import xlrd
 
-workbook = 'slownik_jst_2013.xls'
+WORKBOOK = 'data/slownik_jst_2013.xls'
 
-def getGminy():
-    book = xlrd.open_workbook(workbook, encoding_override='utf-8')
+def getGminy(slownik_path):
+    book = xlrd.open_workbook(slownik_path, encoding_override='utf-8')
     data = {}
     sheet = book.sheets()[0]
     names = sheet.col(0)
@@ -23,4 +23,4 @@ def getGminy():
     return data
 
 if __name__ == '__main__':
-    print getGminy()
+    print getGminy(WORKBOOK)
