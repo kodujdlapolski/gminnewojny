@@ -13,13 +13,16 @@ def getGminy(slownik_path):
     wks   = sheet.col(1)
     pks   = sheet.col(2)
     gks   = sheet.col(3)
+    types = sheet.col(6)
     for i in range(len(sheet.col(0))):
         name = names[i]
         wk   = wks[i]
         pk   = pks[i]
         gk   = gks[i]
+        type_ = types[i]
+        
         try:
-            data[WkPkGkToStr(wk.value, pk.value, gk.value)] = (name.value, )
+            data[WkPkGkToStr(wk.value, pk.value, gk.value)] = (name.value.lower(), name.value, type_.value)
         except:
             print 'FAULT:', name, wk, pk, gk
     
