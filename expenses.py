@@ -15,7 +15,7 @@ def generate_expenditures():
     
     result = {}
 
-    for record in table[1:100]:
+    for record in table:
         wk_pk_gk = gminy.WkPkGkToStr(record['wk'], record['pk'], record['gk'])
         
         try:
@@ -34,7 +34,13 @@ def generate_expenditures():
         if gmina_key not in result:
             result[gmina_key] = {}
         
-        result[gmina_key][par_record[0:-1]] = (planned, executed)
+        expense_data = par_record
+        if expense_data not in result[gmina_key]:
+            result[gmina_key][expense_data] = [0.0, 0.0]
+            
+        result[gmina_key][expense_data][0] += planned
+        result[gmina_key][expense_data][1] += executed
+        
         result[gmina_key]['__name'] = gmina_name
 
     return result
@@ -58,6 +64,7 @@ def get_data_for_gmina(gmina, planned=False):
 def get_similar_gmina(gmina):
     return cities.cities.get_similar_city(gmina)
 
-#print get_data_for_gmina('GRODZISK MAZOWIECKI')
-#print get_data_for_gmina('JAWORZNO')
-print get_similar_gmina('Alwernia')
+
+if __name__ == '__main__':
+    from pprint import pprint
+    pprint(get_data_for_gmina(u'Kraków'))

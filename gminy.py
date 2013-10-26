@@ -29,4 +29,5 @@ def getGminy(slownik_path):
     return data
 
 if __name__ == '__main__':
-    print getGminy(WORKBOOK)
+    gminy = getGminy(WORKBOOK)
+    print gminy
