@@ -1,4 +1,4 @@
-DATA FROM: http://www.przepisy.gofin.pl/przepisy,3,16,194,1276,55703,20120101,klasyfikacja-paragrafow-wydatkow-i-srodkow.html
+﻿DATA FROM: http://www.przepisy.gofin.pl/przepisy,3,16,194,1276,55703,20120101,klasyfikacja-paragrafow-wydatkow-i-srodkow.html
 
 Paragrafy
 

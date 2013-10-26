@@ -11,10 +11,11 @@ def get_par(filename):
             if space != -1:
                 try:
                     par = int(line[:space])
-                    result[par] = line[space:]
+                    result[par] = unicode(line[space:].strip(), 'utf8')
                 except ValueError:
                     pass
     return result
 
 if __name__ == '__main__':
     pprint(get_par('data/par_input.txt'))
+    pprint(get_par('data/rozdzial_input.txt'))

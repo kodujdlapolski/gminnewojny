@@ -15,7 +15,7 @@ def generate_expenditures():
     
     result = {}
 
-    for record in table:
+    for record in table[1:100]:
         wk_pk_gk = gminy.WkPkGkToStr(record['wk'], record['pk'], record['gk'])
         
         try:
@@ -58,5 +58,6 @@ def get_data_for_gmina(gmina, planned=False):
 def get_similar_gmina(gmina):
     return cities.cities.get_similar_city(gmina)
 
-print get_data_for_gmina('GRODZISK MAZOWIECKI')
-print get_data_for_gmina('JAWORZNO')
+#print get_data_for_gmina('GRODZISK MAZOWIECKI')
+#print get_data_for_gmina('JAWORZNO')
+print get_similar_gmina('Alwernia')
