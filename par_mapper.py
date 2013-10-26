@@ -17,4 +17,4 @@ def get_par(filename):
     return result
 
 if __name__ == '__main__':
-    pprint(get_par('par_input.txt'))
+    pprint(get_par('data/par_input.txt'))
