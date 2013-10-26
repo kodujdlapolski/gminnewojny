@@ -6,7 +6,7 @@ import json
 
 from expenses import *
 
-HOST = '10.20.2.9'
+HOST = '0.0.0.0'
 PORT = 1080
 
 
