@@ -11,6 +11,7 @@ def generate_expenditures():
     table.open()
 
     par_data = par_mapper.get_par('data/par_input.txt')
+    rozdzial_data = par_mapper.get_par('data/rozdzial_input.txt')
     gminy_data = gminy.getGminy(gminy.WORKBOOK)
     
     result = {}
@@ -21,6 +22,7 @@ def generate_expenditures():
         try:
             gminy_record = gminy_data[wk_pk_gk]
             par_record = par_data[int(record['par'])]
+            rozdzial   = rozdzial_data[int(record['rozdzial'])]
         except KeyError:
             continue
 
