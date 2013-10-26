@@ -2,6 +2,9 @@ import xlrd
 
 WORKBOOK = 'data/slownik_jst_2013.xls'
 
+def WkPkGkToStr(wk, pk, gk):
+    return unicode(wk).replace('.0', '') + unicode(pk).replace('.0', '') + unicode(gk).replace('.0', '')
+
 def getGminy(slownik_path):
     book = xlrd.open_workbook(slownik_path, encoding_override='utf-8')
     data = {}
@@ -16,7 +19,7 @@ def getGminy(slownik_path):
         pk   = pks[i]
         gk   = gks[i]
         try:
-            data[unicode(wk.value).replace('.0', '') + unicode(pk.value).replace('.0', '') + unicode(gk.value).replace('.0', '')] = (name.value, )
+            data[WkPkGkToStr(wk.value, pk.value, gk.value)] = (name.value, )
         except:
             print 'FAULT:', name, wk, pk, gk
     
