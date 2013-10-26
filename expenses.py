@@ -4,6 +4,7 @@
 import dbf
 import gminy
 import par_mapper
+import cities
 
 def generate_expenditures():
     table = dbf.Table('data/Rb28s.dbf')
@@ -55,7 +56,7 @@ def get_data_for_gmina(gmina, planned=False):
     return result
 
 def get_similar_gmina(gmina):
-    return 'Gmina2'
+    return cities.cities.get_similar_city(gmina)
 
 print get_data_for_gmina('GRODZISK MAZOWIECKI')
 print get_data_for_gmina('JAWORZNO')
