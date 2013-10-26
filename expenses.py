@@ -8,6 +8,9 @@ import cities
 import os
 import cPickle
 
+PLANNED_EXPENSE = 0
+EXECUTED_EXPENSE = 1
+
 def generate_expenditures():
     table = dbf.Table('data/Rb28s.dbf')
     table.open()
@@ -40,10 +43,13 @@ def generate_expenditures():
         
         expense_data = par_record
         if expense_data not in result[gmina_key]:
-            result[gmina_key][expense_data] = [0.0, 0.0]
+            result[gmina_key][expense_data] = {}
+        
+        if rozdzial not in result[gmina_key][expense_data]:    
+            result[gmina_key][expense_data][rozdzial] = [0.0, 0.0]
             
-        result[gmina_key][expense_data][0] += planned
-        result[gmina_key][expense_data][1] += executed
+        result[gmina_key][expense_data][rozdzial][PLANNED_EXPENSE] += planned
+        result[gmina_key][expense_data][rozdzial][EXECUTED_EXPENSE] += executed
         
         result[gmina_key]['__name'] = gmina_name
 
@@ -69,18 +75,21 @@ def get_data_for_gmina(gmina, planned=False):
         return
     gmina_info = DATA[gmina]
     result = {}
-    for attr in gmina_info:
-        if planned:
-            result[attr] = gmina_info[attr][1]
-        else:
-            result[attr] = gmina_info[attr][0]
+    for paragraph in gmina_info:
+        if paragraph.startswith('__'):
+            continue
+        for chapter in gmina_info[paragraph]:
+            if planned:
+                result[chapter] = gmina_info[paragraph][chapter][EXECUTED_EXPENSE]
+            else:
+                result[chapter] = gmina_info[paragraph][chapter][PLANNED_EXPENSE]
     
     return result
 
 def get_similar_gmina(gmina):
     return cities.cities.get_similar_city(gmina)
 
-
 if __name__ == '__main__':
     from pprint import pprint
     pprint(get_data_for_gmina(u'Kraków'))
+    print get_similar_gmina(u'Mysłowice')
