@@ -5,8 +5,10 @@ import dbf
 import gminy
 import par_mapper
 import cities
+import pickle
 import os
-import cPickle
+
+FILE_PICKLE = 'data/data_pickle.x'
 
 def generate_expenditures():
     table = dbf.Table('data/Rb28s.dbf')
@@ -14,7 +16,7 @@ def generate_expenditures():
 
     par_data = par_mapper.get_par('data/par_input.txt')
     gminy_data = gminy.getGminy(gminy.WORKBOOK)
-    
+
     result = {}
 
     for record in table:
@@ -47,19 +49,12 @@ def generate_expenditures():
 
     return result
 
-CACHE_FILE_NAME = 'data.cache'
-if os.path.isfile(CACHE_FILE_NAME):
-    print 'Loading cached data from', CACHE_FILE_NAME
-    with open(CACHE_FILE_NAME, 'r') as f:
-        DATA = cPickle.load(f)
+if os.path.exists(FILE_PICKLE):
+    global DATA
+    DATA = pickle.load(open(FILE_PICKLE, 'rb'))
 else:
-    print 'Cache file doesn\'t exist, data will be generated...'
     DATA = generate_expenditures()
-    print 'Saving generated data to a cache file...'
-    with open(CACHE_FILE_NAME, 'w') as f:
-        cPickle.dump(DATA, f)
-    print 'Done with data.'
-
+    pickle.dump(DATA, open(FILE_PICKLE, 'wb'))
 
 def get_data_for_gmina(gmina, planned=False):
     gmina = gmina.lower()
@@ -82,3 +77,5 @@ def get_similar_gmina(gmina):
 if __name__ == '__main__':
     from pprint import pprint
     pprint(get_data_for_gmina(u'Kraków'))
+
+    

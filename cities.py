@@ -68,5 +68,6 @@ class Cities:
             else:
                 return self.get_some_city_for_population(self._populations[index + 1])
 
+
 cities = Cities()
 
